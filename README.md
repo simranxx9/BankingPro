@@ -1,8 +1,4 @@
-## For Demo Run 
-### Click img
-[![img](https://github.com/simranxx9/React-redux/blob/master/src/img/main_page.png)](https://blogtrooper-842ae.web.app/)
-
----
+### Sirama Bank
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
