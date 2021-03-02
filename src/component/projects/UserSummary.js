@@ -1,9 +1,12 @@
 import React from 'react';
+import moment from 'moment';
 
 const UserSummary = (props)=>{
     const {project} = props;
-    console.log(project);
-    return(
+    console.log(props);
+    if(project)
+    {
+        return(
         
             <div>
                 <div className="card z-depth-0 project-summary">
@@ -19,5 +22,18 @@ const UserSummary = (props)=>{
             </div>
         
     )
+    }
+    else{
+        return(
+            <div>
+                <div className="card z-depth-0 project-summary">
+                    <div className="card-content grey-text text-darken-3">
+                    
+                        <p className="grey-text">Login Time : {moment().format('MMMM Do YYYY, h:mm:ss a')}</p>
+                    </div>
+                </div>
+            </div>
+    )
+    }
 }
 export default UserSummary;
