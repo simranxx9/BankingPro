@@ -27,6 +27,7 @@
     "eject": "react-scripts eject"
   },
   "type": "module",
+  "dataType":"html",
   "eslintConfig": {
     "extends": "react-app"
   },
