@@ -1,15 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
-import * as serviceWorker from './serviceWorker';
+import App from './src/App';
+import * as serviceWorker from './src/serviceWorker';
 import { createStore,applyMiddleware, compose } from 'redux';
 import { Provider } from 'react-redux';
-import rootReducer from './store/reducer/rootReducer';
+import rootReducer from './src/store/reducer/rootReducer';
 import thunk from 'redux-thunk';
 import { reduxFirestore, getFirestore } from 'redux-firestore';
 import { getFirebase, reactReduxFirebase } from 'react-redux-firebase';
-import fbConfig from './config/fbConfig';
+import fbConfig from './src/config/fbConfig';
 // import firebase from 'firebase/app';
 // import { createFirestoreInstance } from 'redux-firestore';
 
