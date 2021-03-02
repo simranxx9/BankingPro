@@ -21,13 +21,11 @@
     "redux-thunk": "^2.3.0"
   },
   "scripts": {
-    "start": "node index.js",
-    "build:staging": "env-cmd -f .env.staging npm run build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "type": "module",
-  "dataType":"json",
   "eslintConfig": {
     "extends": "react-app"
   },
