@@ -9,7 +9,7 @@ Bank Management System in which I have integrated  react with the Google firebas
 
 #### Admin Page
 
-<img src="https://drive.google.com/file/d/1CqCRx7iVmBXd4ky8Ln8aARlndOgH8m9O/view?usp=sharing">
+<img src="https://github.com/simranxx9/BankingPro/blob/master/public/img/adminPage.PNG">
 
 ### For Deployment
 <a href="https://www.geeksforgeeks.org/how-to-deploy-react-app-to-heroku/"><img src="https://pbs.twimg.com/profile_images/1304985167476523008/QNHrwL2q_400x400.jpg" width="50px"></a>
