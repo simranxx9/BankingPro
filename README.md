@@ -1,5 +1,6 @@
 ### Sirama Bank
 
+Bank Management System in which I have integrated  react with the Google firebase and deployed to heroku to store any changes(Loan Taken, Withdrawal) in the  account of the customer to be reflected to the admin of the branch of the bank
 
 ---
 #### For Demo Run Click
