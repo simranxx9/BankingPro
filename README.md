@@ -5,7 +5,7 @@ Bank Management System in which I have integrated  react with the Google firebas
 ---
 #### For Demo Run Click
 
-<a href="https://bank-management2.herokuapp.com/"><img src="https://drive.google.com/file/d/1qOoahIMo7xWCyKkNDMti-GK37ovtLSLs/view?usp=sharing"></a>
+<a href="https://bank-management2.herokuapp.com/"><img src="https://github.com/simranxx9/BankingPro/blob/master/public/img/FrontPage.PNG"></a>
 
 #### Admin Page
 
